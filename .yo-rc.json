@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "io.damelyngdoh.multidatasourcespringapp"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "microservice",
+    "baseName": "multidatasourcespringapp",
+    "packageName": "io.damelyngdoh.multidatasourcespringapp",
+    "packageFolder": "io/damelyngdoh/multidatasourcespringapp",
+    "serverPort": "6050",
+    "authenticationType": "oauth2",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MWFiZTlhY2E4NTVhMzJiN2FmYjA2MmFkODU0ZmM4OGE3YTc1ZmY4ZWUyMzQzY2I3YjdiMDc5ZDEwMDBmNDEwMWRiNThiMGE1YzZjZjBmNzBlODJkYTM5MWI3Y2I0MzUyNDU2MGU2ODY0YmExMzE2YTAyNThjMDZkM2VmODA5ZTM=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1615886119666,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
